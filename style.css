@@ -1,14 +1,14 @@
 body{
-    background: #aa7979;
+    background: #635f5f;
     color:aqua
 }
 a{
-    color:aquamarine
+    color:rgb(241, 216, 101)
 }
 header{
     border: 2px solid red;
 
 }
 main{ 
-    background-color: blueviolet;
+    background-color: rgb(202, 168, 234);
 }
