@@ -5,3 +5,10 @@ body{
 a{
     color:aquamarine
 }
+header{
+    border: 2px solid red;
+
+}
+main{ 
+    background-color: blueviolet;
+}
