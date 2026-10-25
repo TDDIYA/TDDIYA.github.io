@@ -1,3 +1,9 @@
+:root{
+font-size: 15px;
+
+}
+
+
 body{
     background: #635f5f;
     color:aqua
@@ -11,4 +17,72 @@ header{
 }
 main{ 
     background-color: rgb(202, 168, 234);
+}
+
+.paragraf_większy{
+    font-size: 10px
+    color azure
+
+}
+.paragraf_większy{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-color: rgb(63, 73, 66) !important;
+}
+
+p{
+    font-size: 20px;
+    color:#635f5f;
+
+}
+header p{
+    color:chocolate
+
+}
+.paragraf{
+    color: blue;
+}
+
+.sprzenty{
+    font-size: 22px;
+}
+
+.isometra-regular {
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.pierwszy {
+    text-align: left
+}
+.lewy{
+    text-align: left
+}
+.prawy{
+    text-align: right
+}
+.justify{
+    text-align: justify
+}
+a{
+    text-decoration: none
+}
+ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-type: square;
+}
+nav ul{
+    list-style-type: none;
+
+}
+
+.litery{
+    list-style-type: lower-latin;
+}
+.obrazek{
+    list-style-image: url('punktator.jpg');
 }
