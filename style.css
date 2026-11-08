@@ -79,7 +79,29 @@ nav ul{
     list-style-type: none;
 
 }
+.disc   { 
+    list-style-type: disc; 
+}
 
+.decimal      { 
+    list-style-type: decimal; 
+}
+.decimal-zero { 
+    list-style-type: decimal-leading-zero; 
+}
+.lower-alpha  { 
+    list-style-type: lower-alpha; 
+}
+.upper-alpha  { 
+    list-style-type: upper-alpha; 
+}
+.lower-roman  { 
+    list-style-type: lower-roman; 
+}
+.upper-roman  { 
+    list-style-type: upper-roman; 
+}
+ 
 .litery{
     list-style-type: lower-latin;
 }
