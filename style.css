@@ -5,14 +5,14 @@ font-size: 15px;
 
 
 body{
-    background: #635f5f;
-    color:aqua
+    background: #927c7c;
+    color:rgb(169, 221, 162)
 }
 a{
-    color:rgb(241, 216, 101)
+    color:rgb(180, 168, 114)
 }
 header{
-    border: 2px solid red;
+    border: 2px solid rgb(0, 0, 0);
 
 }
 main{ 
@@ -107,4 +107,7 @@ nav ul{
 }
 .obrazek{
     list-style-image: url('punktator.jpg');
+}
+.obrazek{
+    list-style-image: url('klasa/obrazek.jpg');
 }
